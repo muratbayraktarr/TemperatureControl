@@ -1,0 +1,16 @@
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe.config
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.pdb
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\System.ValueTuple.dll
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\TemperatureControl.csproj.AssemblyReference.cache
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\TemperatureControl.ProjectInstaller.resources
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\TemperatureControl.csproj.GenerateResource.cache
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\TemperatureControl.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\Temperat.A99CF4E8.Up2Date
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\TemperatureControl.exe
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\TemperatureControl.pdb
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\TemperatureControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\obj\Debug\TemperatureControl.exe.config

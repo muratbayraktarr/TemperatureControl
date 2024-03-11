@@ -1,0 +1,430 @@
+﻿'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.Security.SecurityException: Kaynak bulunamadı; ancak olay günlüklerinin bazılarında veya hiçbirinde arama yapılamadı. Erişilemeyen günlükler: Security, State.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+TemperatureControl hizmetini durdurma girişimi.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+TemperatureControl hizmetini durdurma girişimi.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+TemperatureControl hizmetini durdurma girişimi.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+TemperatureControl hizmetini durdurma girişimi.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+TemperatureControl hizmeti yükleniyor...
+TemperatureControl hizmeti başarıyla yüklendi.
+Application günlüğünde TemperatureControl EventLog kaynağı oluşturuluyor...
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+   logtoconsole = 
+'C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.InstallLog
+   assemblypath = C:\Users\Murat\Documents\VSProject\TemperatureControl\TemperatureControl\bin\Debug\TemperatureControl.exe
+TemperatureControl EventLog kaynağı kaldırılıyor.
+TemperatureControl hizmeti sistemden kaldırılıyor...
+TemperatureControl hizmeti sistemden başarıyla kaldırıldı.
+TemperatureControl hizmetini durdurma girişimi.
